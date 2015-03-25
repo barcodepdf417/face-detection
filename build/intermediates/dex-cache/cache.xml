@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Godnes\AndroidStudioProjects\face-detection\openCVSamplefacedetection\libs\opencv-2.4.10-0.10.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a52a775a3d2d578823f86f1c9a347501bc39d9d2">
+        <dex dex="C:\Users\Godnes\AndroidStudioProjects\face-detection\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\opencv-2.4.10-0.10-b4f0fbef7c732af6dbc8510b6f94ec4bc893dfe7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Godnes\AndroidStudioProjects\face-detection\openCVSamplefacedetection\build\intermediates\exploded-aar\face-detection\openCVLibrary2410\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5dfbb2c6a78791ec0003831bf355e7c87a685fe8">
+        <dex dex="C:\Users\Godnes\AndroidStudioProjects\face-detection\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\classes-4c7d62d424242873e02ffaa298d03e47660e627b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Godnes\AndroidStudioProjects\face-detection\openCVSamplefacedetection\libs\opencv_library-2.4.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e92dfaeacc97afc46002172e0d0d55b33838715b">
+        <dex dex="C:\Users\Godnes\AndroidStudioProjects\face-detection\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\opencv_library-2.4.3-c607087389f0ed7b8c536411267c7c2120fd837f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Godnes\.gradle\caches\modules-2\files-2.1\org.bytedeco.javacpp-presets\opencv\2.4.10-0.10\a52a775a3d2d578823f86f1c9a347501bc39d9d2\opencv-2.4.10-0.10.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a52a775a3d2d578823f86f1c9a347501bc39d9d2">
+        <dex dex="C:\Users\Godnes\AndroidStudioProjects\face-detection\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\opencv-2.4.10-0.10-47470aeb2fbf499d10aa7776d8bdefc48b3da90c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Godnes\.gradle\caches\modules-2\files-2.1\org.bytedeco\javacpp\0.10\3346d5861a21ed4e230d56487694d9a1787dad62\javacpp-0.10.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3346d5861a21ed4e230d56487694d9a1787dad62">
+        <dex dex="C:\Users\Godnes\AndroidStudioProjects\face-detection\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\javacpp-0.10-b0e5b31d288cb7196d509312cd003f5829987b40.jar" />
+    </item>
+
+</items>

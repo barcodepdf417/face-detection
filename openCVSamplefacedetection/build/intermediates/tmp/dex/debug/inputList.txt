@@ -1,0 +1,2 @@
+C:\Users\Godnes\AndroidStudioProjects\face-detection\openCVSamplefacedetection\build\intermediates\classes\debug
+C:\Users\Godnes\AndroidStudioProjects\face-detection\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\classes-4c7d62d424242873e02ffaa298d03e47660e627b.jar
